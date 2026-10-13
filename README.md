@@ -5,4 +5,4 @@ This repository contains my practical exercises and projects completed during th
 ## Progress
 
 - Module 0: Git & GitHub
-- Module 1: Not Started
+- Module 1: C# & .NET Fundamentals
