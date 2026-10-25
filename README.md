@@ -6,3 +6,4 @@ This repository contains my practical exercises and projects completed during th
 
 - Module 0: Git & GitHub
 - Module 1: C# & .NET Fundamentals
+- Module 2: Object-Oriented Programming
