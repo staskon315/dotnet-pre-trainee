@@ -10,3 +10,4 @@ This repository contains my practical exercises and projects completed during th
 - Module 3: Clean Code Principles: SOLID, DRY, KISS & YAGNI
 - Module 4: Asynchronous Programming in C#
 - Module 5: Databases and SQL Server
+- Module 6: Dapper and Data Access
