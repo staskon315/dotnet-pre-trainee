@@ -11,3 +11,4 @@ This repository contains my practical exercises and projects completed during th
 - Module 4: Asynchronous Programming in C#
 - Module 5: Databases and SQL Server
 - Module 6: Dapper and Data Access
+- Module 7: Design Patterns in C#
